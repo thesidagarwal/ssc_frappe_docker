@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://github.com/frappe/erpnext.git",
+    "branch": "version-16"
+  },
+  {
+    "url": "git@github.com:thesidagarwal/ssc_custom.git",
+    "branch": "develop"
+  }
+]
